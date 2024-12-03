@@ -125,15 +125,13 @@ int main() {
                 }
                 break;
 
-            //case 9 : 
+            case 9 : 
                 printf("Thoat chuong trinh!\n");
                 break;
             
             
         }
-        case 9 : 
-                printf("Thoat chuong trinh!\n");
-                break;
+        
             
     } while (choice != 9);
 
