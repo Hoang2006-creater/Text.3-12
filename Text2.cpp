@@ -110,11 +110,11 @@ int main() {
                 }
                 break;
 
-            //case 8: // Thoat
+            case 8: // Thoat
                 printf("Thoat chuong trinh!\n");
                 break;
 
-            //default: // Lua chon khong hop le
+            default: // Lua chon khong hop le
                 printf("Lua chon khong hop le. Vui long chon lai!\n");
                 break;
         }
