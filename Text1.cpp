@@ -14,7 +14,7 @@ int main() {
 
     do {
         // Hien thi menu
-        printf("\n--- MENU ---\n");
+        printf("       MENU    ");
         printf("1. Nhap so phan tu can nhap va gia tri cac phan tu\n");
         printf("2. In ra gia tri cac phan tu dang quan ly\n");
         printf("3. In ra gia tri lon nhat cua mang\n");
