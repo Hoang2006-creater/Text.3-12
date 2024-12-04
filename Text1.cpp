@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Ham kiem tra so nguyen to
-int isPrime(int num) {
+int num {
     if (num < 2) return 0;
     for (int i = 2; i * i <= num; i++) {
         if (num % i == 0) return 0;
@@ -60,7 +60,7 @@ int main() {
             case 4: // In ra cac phan tu la so nguyen to trong mang
                 printf("Cac so nguyen to trong mang: ");
                 for (int i = 0; i < n; i++) {
-                    if (isPrime(arr[i])) {
+                    if (num (arr[i])) {
                         printf("%d ", arr[i]);
                     }
                 }
