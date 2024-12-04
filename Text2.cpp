@@ -4,7 +4,7 @@ int main() {
     int arr[100][100], n, choice, value;
 
     do {
-        printf("\n--- MENU ---\n");
+        printf("      MENU     ");
         printf("1. Nhap kich co va gia tri cac phan tu cua ma tran\n");
         printf("2. In ra gia tri cac phan tu cua ma tran theo ma tran\n");
         printf("3. In ra cac phan tu tren duong bien va tinh tich\n");
